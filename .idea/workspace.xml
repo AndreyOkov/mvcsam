@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="978f44b1-bd04-4c4f-970e-6755e447e38a" name="Default" comment="" />
+    <list default="true" id="978f44b1-bd04-4c4f-970e-6755e447e38a" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="mvcsam.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -32,7 +34,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AmenDurex.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="AmenDurex.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/controllers/AmenDurex.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
@@ -42,7 +44,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Router.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Router.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vendor/core/Router.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="273">
@@ -180,8 +182,8 @@
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="PhpXdebugProxy" ide_key="PHPSTORM" host="mvcsam" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-6" />
-    <option name="y" value="16" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1296" />
     <option name="height" value="1040" />
   </component>
@@ -391,7 +393,7 @@
       <workItem from="1493479934972" duration="14661000" />
       <workItem from="1493536321431" duration="67000" />
       <workItem from="1493536401891" duration="27788000" />
-      <workItem from="1493623883666" duration="1593000" />
+      <workItem from="1493623883666" duration="1774000" />
     </task>
     <task id="LOCAL-00001" summary="Номер 2">
       <created>1493624553479</created>
@@ -414,14 +416,21 @@
       <option name="project" value="LOCAL" />
       <updated>1493625468313</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Merge branch 'master' of https://github.com/AndreyOkov/mvcsam&#10;">
+      <created>1493625663264</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1493625663264</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44109000" />
+    <option name="totallyTimeSpent" value="44290000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="16" width="1296" height="1040" extended-state="0" />
+    <frame x="-8" y="-8" width="1296" height="1040" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2540453" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -457,7 +466,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Номер 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Номер 2" />
+    <MESSAGE value="Merge branch 'master' of https://github.com/AndreyOkov/mvcsam&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://github.com/AndreyOkov/mvcsam&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -752,18 +762,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/AmenDurex.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vendor/core/Router.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
           <caret line="51" column="37" selection-start-line="51" selection-start-column="37" selection-end-line="51" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/AmenDurex.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
           <folding />
         </state>
       </provider>
