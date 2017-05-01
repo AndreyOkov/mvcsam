@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="978f44b1-bd04-4c4f-970e-6755e447e38a" name="Default" comment="Номер 2">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="978f44b1-bd04-4c4f-970e-6755e447e38a" name="Default" comment="" />
     <ignored path="mvcsam.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -47,7 +45,7 @@
       <file leaf-file-name="Router.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/vendor/core/Router.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="295">
+            <state relative-caret-position="273">
               <caret line="51" column="37" selection-start-line="51" selection-start-column="37" selection-end-line="51" selection-end-column="37" />
               <folding />
             </state>
@@ -393,7 +391,7 @@
       <workItem from="1493479934972" duration="14661000" />
       <workItem from="1493536321431" duration="67000" />
       <workItem from="1493536401891" duration="27788000" />
-      <workItem from="1493623883666" duration="1572000" />
+      <workItem from="1493623883666" duration="1593000" />
     </task>
     <task id="LOCAL-00001" summary="Номер 2">
       <created>1493624553479</created>
@@ -409,11 +407,18 @@
       <option name="project" value="LOCAL" />
       <updated>1493625225560</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Номер 2">
+      <created>1493625468313</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1493625468313</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44088000" />
+    <option name="totallyTimeSpent" value="44109000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="16" width="1296" height="1040" extended-state="0" />
@@ -757,7 +762,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/vendor/core/Router.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
+        <state relative-caret-position="273">
           <caret line="51" column="37" selection-start-line="51" selection-start-column="37" selection-end-line="51" selection-end-column="37" />
           <folding />
         </state>
