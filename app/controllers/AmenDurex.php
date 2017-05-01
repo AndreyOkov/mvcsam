@@ -2,13 +2,12 @@
 
 namespace app\controllers;
 
-class AmenDurex
-{
-    public function __construct()
-    {
-        echo "AmenDurex created <br/>";
-    }
 
+
+class AmenDurex extends AppController
+{
+
+   
     public function indexAction(){
         echo 'This is index method';
     }
